@@ -23,7 +23,7 @@ Sistema desenvolvido para uso de bibliotecários(as) com o intuito de auxiliar n
 + Exclusão de leitores do sistema 
 + Pesquisa personalizada dos leitores cadastrados 
 + Cadastro de livros
-+ Validando de ISBN
++ Validação de ISBN
 + Atualização dos dados do acervo
 + Exclusão de livros do acervo 
 + Consulta ao acervo da biblioteca 
