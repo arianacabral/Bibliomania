@@ -2,7 +2,7 @@
 Aplicação para Gerenciamento de Biblioteca
 > Versão **1.0** 
 
-| [<img src="src/HOME.png" width="360px;"/><br /><sub>HOME</sub>](src/HOME.png)<br /> |  [<img src="src/Atualizar_DADOS_ACERVO.png" width="420px;"/><br /><sub>CADASTRAR LIVRO</sub>](src/Atualizar_DADOS_ACERVO.png)<br /> | [<img src="src/Cadastrar_EMPRESTIMO.png" width="330px;"/><br /><sub>CADASTRAR EMPRÉSTIMO</sub>](src/Cadastrar_EMPRESTIMO.png)<br /> |
+| [<img src="src/HOME.png" width="360px;"/><br /><sub>HOME</sub>](src/HOME.png)<br /> |  [<img src="src/Atualizar_DADOS_ACERVO.png" width="420px;"/><br /><sub>ATUALIZAR DADOS DO ACERVO</sub>](src/Atualizar_DADOS_ACERVO.png)<br /> | [<img src="src/Cadastrar_EMPRESTIMO.png" width="330px;"/><br /><sub>CADASTRAR EMPRÉSTIMO</sub>](src/Cadastrar_EMPRESTIMO.png)<br /> |
 | :---: | :---: | :---: |
 
 ---
