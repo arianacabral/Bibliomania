@@ -10,11 +10,42 @@ Aplicação para Gerenciamento de Biblioteca
 
 <div align="justify"> 
   
-Sistema CRUD para gerenciamento de **biblioteca**, com interface gráfica e armazenamento de dados no SQLite. 
+Sistema desenvolvido para uso de bibliotecários(as) com o intuito de auxiliar nas atividades de empréstimo e devolução de livros.
 
 </div>
 
 ---
+### Funcionalidades implementadas
+
++ Cadastro de leitores
++ Validação de CPF
++ Atualização dos dados dos leitores
++ Exclusão de leitores do sistema 
++ Pesquisa personalizada dos leitores cadastrados 
++ Cadastro de livros
++ Validando de ISBN
++ Atualização dos dados do acervo
++ Exclusão de livros do acervo 
++ Consulta ao acervo da biblioteca 
++ Cadastro de empréstimos (com empréstimo de 7 dias)
++ Validação de empréstimo com base no ISBN do livro e CPF do leitor
++ Emissão de comprovante de empréstimo
++ Atualização dos dados do empréstimo
++ Exclusão de empréstimos 
++ Consulta aos empréstimos realizados
++ Controle do número de livros e leitores cadastrados no sistema
++ Controle do número de empréstimos realizados
+
+### Funcionalidades em andamento
+
++ Acesso ao sistema por meio de *login* e senha
++ Notificação de efetuamento de empréstimo de livros (via email)
++ Notificão de alerta para a devolução de livros (via email à partir do 6º dia do prazo do empréstimo)
++ Visualização das categorias mais lidas 
++ Inserção da capa do livro durante cadastro
+
+---
+
 ### Aplicação 💻
 
 **Linguagem** 
