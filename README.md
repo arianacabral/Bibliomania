@@ -95,6 +95,13 @@ Sistema desenvolvido para uso de bibliotecários(as) com o intuito de auxiliar n
   <img ali = "Cadastro_leitor" title = "Cadastro_leitor" src = "src/Demo_Cadastro_leitores.gif"/>
 </div>
 
+</br>
+
+**Atualizar dados dos leitores**
+
+<div align = "center" style="display: inline_block">
+  <img ali = "Atualizar_leitor" title = "Atualizar_leitor" src = "src/Demo_Atualizar_leitores.gif"/>
+</div>
 ---
 
 ### Contatos
