@@ -73,7 +73,6 @@ Sistema desenvolvido para uso de bibliotecários(as) com o intuito de auxiliar n
 
 <div style="display: inline_block">
   <img align="center" alt="Illustrator" height="40" width="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/07/adobe-illustrator-logo.png">
-  <img align="center" alt="Illustrator" height="40" width="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/07/adobe-illustrator-logo.png">
 </div>
 
 ---
