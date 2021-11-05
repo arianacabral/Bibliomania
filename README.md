@@ -43,6 +43,7 @@ Sistema desenvolvido para uso de bibliotecários(as) com o intuito de auxiliar n
 + Notificão de alerta para a devolução de livros (via email à partir do 6º dia do prazo do empréstimo)
 + Visualização das categorias mais lidas 
 + Inserção da capa do livro durante cadastro
++ Inserção de lista de livros desejados pelos leitores (Wish-list ❤️)
 
 ---
 
