@@ -79,8 +79,20 @@ Sistema desenvolvido para uso de bibliotecários(as) com o intuito de auxiliar n
 
 ### Demo ✨
 
+</br>
+
+**Home**
+
 <div align = "center" style="display: inline_block">
   <img ali = "Home" title = "Home" src = "src/HOME.png"/>
+</div>
+
+</br>
+
+**Cadastro de leitores**
+
+<div align = "center" style="display: inline_block">
+  <img ali = "Cadastro_leitor" title = "Cadastro_leitor" src = "src/Demo_Cadastro_leitotes.gif"/>
 </div>
 
 ---
