@@ -102,6 +102,7 @@ Sistema desenvolvido para uso de bibliotecários(as) com o intuito de auxiliar n
 <div align = "center" style="display: inline_block">
   <img ali = "Atualizar_leitor" title = "Atualizar_leitor" src = "src/Demo_Atualizar_leitores.gif"/>
 </div>
+
 ---
 
 ### Contatos
