@@ -6,7 +6,7 @@ Aplicação para Gerenciamento de Biblioteca
 | :---: | :---: | :---: |
 
 ---
-### Descrição
+### Descrição 📄
 
 <div align="justify"> 
   
@@ -15,7 +15,7 @@ Sistema desenvolvido para uso de bibliotecários(as) com o intuito de auxiliar n
 </div>
 
 ---
-### Funcionalidades implementadas
+### Funcionalidades implementadas 📖
 
 + Cadastro de leitores
 + Validação de CPF
@@ -36,7 +36,7 @@ Sistema desenvolvido para uso de bibliotecários(as) com o intuito de auxiliar n
 + Controle do número de livros e leitores cadastrados no sistema
 + Controle do número de empréstimos realizados
 
-### Funcionalidades em andamento
+### Funcionalidades em andamento 🛠
 
 + Acesso ao sistema por meio de *login* e senha
 + Notificação de efetuamento de empréstimo de livros (via email)
