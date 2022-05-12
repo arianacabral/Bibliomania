@@ -71,7 +71,7 @@ Sistema desenvolvido para uso de bibliotecários(as) com o intuito de auxiliar n
 
 **Designing**
 
-Illustrator
+:art: Illustrator
 
 ---
 
