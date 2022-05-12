@@ -36,7 +36,7 @@ Sistema desenvolvido para uso de bibliotecários(as) com o intuito de auxiliar n
 + Controle do número de livros e leitores cadastrados no sistema
 + Controle do número de empréstimos realizados
 
-### Funcionalidades em andamento 🛠
+### Funcionalidades em andamento :construction:
 
 + Acesso ao sistema por meio de *login* e senha
 + Notificação de efetuamento de empréstimo de livros (via email)
@@ -71,9 +71,21 @@ Sistema desenvolvido para uso de bibliotecários(as) com o intuito de auxiliar n
 
 **Designing**
 
-<div style="display: inline_block">
-  <img align="center" alt="Illustrator" height="40" width="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/07/adobe-illustrator-logo.png">
+Illustrator
+
+---
+
+
+
+### Instalação ou Download do Projeto 🛠
+
+<div align = "justify">
+  Você pode fazer o <a href="https://github.com/arianacabral/Bibliomania.git">clone</a> do projeto ou, então, <a href = "https://github.com/arianacabral/Bibliomania/archive/refs/tags/v.1.0.zip">baixá-lo</a>. Para executar o <strong>Bibliomania</strong> em sua máquina (💻), você precisará executar o arquivo <a href="https://github.com/arianacabral/Bibliomania/blob/main/wfaGerenciamentoBiblioteca/obj/Debug/wfaGerenciamentoBiblioteca.exe"> .exe</a>. Já para rodar o projeto, você precisará ter o <a href="https://visualstudio.microsoft.com/pt-br/downloads/">Visual Studio</a> em sua máquina.
 </div>
+
+<br/>
+
+> Para rodar o projeto, garanta que as <a href="https://github.com/arianacabral/Bibliomania/tree/main/wfaGerenciamentoBiblioteca/packages">dependências</a> necessárias estão instaladas!
 
 ---
 
