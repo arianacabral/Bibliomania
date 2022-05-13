@@ -47,7 +47,7 @@ Sistema desenvolvido para uso de bibliotecários(as) com o intuito de auxiliar n
 
 ---
 
-### Tecnologias e Ferramentas 💻
+### Tecnologias e Linguagens 💻
 
 **Linguagem** 
 <div style="display: inline_block">
