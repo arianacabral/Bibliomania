@@ -47,31 +47,34 @@ Sistema desenvolvido para uso de bibliotecários(as) com o intuito de auxiliar n
 
 ---
 
-### Aplicação 💻
+### Tecnologias e Ferramentas 💻
 
 **Linguagem** 
 <div style="display: inline_block">
-  <img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
 </div>
+
+
 </br>
 
 **Ambiente de Desenvolvimento** 
 <div style="display: inline_block">
-  <img align="center" alt="VSCode" height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png">
+  <a href="https://visualstudio.microsoft.com/pt-br/" target="_blank"> <img align="center" alt="VSCode" height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"></a>
+  
 </div>
 
 </br>
 
 **Database**
 <div style="display: inline_block">
-  <img align="center" alt="SqLite" height="40" width="70" src="https://www.sqlite.org/images/sqlite370_banner.gif">
+  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </div>
 
 </br>
 
 **Designing**
 
-:art: Illustrator
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 
 ---
 
@@ -79,13 +82,29 @@ Sistema desenvolvido para uso de bibliotecários(as) com o intuito de auxiliar n
 
 ### Instalação ou Download do Projeto 🛠
 
+Você pode fazer o <a href="https://github.com/arianacabral/Bibliomania.git">clone</a> do projeto
+
+```bash
+# Clone o repositório
+$ git clone https://github.com/arianacabral/Bibliomania.git
+```
+ou, então, <a href = "https://github.com/arianacabral/Bibliomania/archive/refs/tags/v.1.0.zip">baixá-lo</a>. 
+
+**Como rodar o código?**
+
 <div align = "justify">
-  Você pode fazer o <a href="https://github.com/arianacabral/Bibliomania.git">clone</a> do projeto ou, então, <a href = "https://github.com/arianacabral/Bibliomania/archive/refs/tags/v.1.0.zip">baixá-lo</a>. Para executar o <strong>Bibliomania</strong> em sua máquina (💻), você precisará executar o arquivo <a href="https://github.com/arianacabral/Bibliomania/blob/main/wfaGerenciamentoBiblioteca/obj/Debug/wfaGerenciamentoBiblioteca.exe"> .exe</a>. Já para rodar o projeto, você precisará ter o <a href="https://visualstudio.microsoft.com/pt-br/downloads/">Visual Studio</a> em sua máquina.
+  Para rodar o projeto, você precisará ter o <a href="https://visualstudio.microsoft.com/pt-br/downloads/">Visual Studio</a> em sua máquina.
 </div>
 
 <br/>
 
-> Para rodar o projeto, garanta que as <a href="https://github.com/arianacabral/Bibliomania/tree/main/wfaGerenciamentoBiblioteca/packages">dependências</a> necessárias estão instaladas!
+> **ATENÇÃO!** Não se esqueça de garantir que as <a href="https://github.com/arianacabral/Bibliomania/tree/main/wfaGerenciamentoBiblioteca/packages">dependências</a> necessárias estão todas instaladas!
+
+**Como executar a aplicação?**
+
+<div>
+Para executar o <strong>Bibliomania</strong> em sua máquina (💻), você precisará executar o arquivo <a href="https://github.com/arianacabral/Bibliomania/blob/main/wfaGerenciamentoBiblioteca/obj/Debug/wfaGerenciamentoBiblioteca.exe"> wfaGerenciamentoBiblioteca.exe</a>.
+</div>
 
 ---
 
