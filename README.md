@@ -82,11 +82,11 @@ Sistema desenvolvido para uso de bibliotecários(as) com o intuito de auxiliar n
 
 ### Instalação ou Download do Projeto 🛠
 
-Você pode fazer o <a href="https://github.com/arianacabral/Bibliomania.git">clone</a> do projeto
+Se você é um usuário do Git, pode fazer o <a href="https://github.com/arianacabral/Bibliomania.git">clone</a> do projeto
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/arianacabral/Bibliomania.git
+git clone https://github.com/arianacabral/Bibliomania.git
 ```
 ou, então, <a href = "https://github.com/arianacabral/Bibliomania/archive/refs/tags/v.1.0.zip">baixá-lo</a>. 
 
